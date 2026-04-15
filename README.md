@@ -139,7 +139,3 @@ npm run preview
 |   `-- server.js
 `-- README.md
 ```
-
-## GitHub Notes
-
-The root `.gitignore` excludes `node_modules`, build output, logs, and real `.env` files. Commit the `.env.example` files, but keep your actual `.env` files private.
